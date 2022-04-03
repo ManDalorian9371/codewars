@@ -1,6 +1,8 @@
 function mosi(){
-console.log("happy now ?")
-alert("none")
+	console.log('happy now ?');
+	alert('none');
 }
 
-fdsfddddfffffffffffffffffffff     //hjbkjk
+//hjbkjk dasda sdas das dasdas dasd adasd asdas das
+let n = 'asd ad asd alsdasld asldk asd a d',
+	c = 'asdasdadasdasd asd ';
