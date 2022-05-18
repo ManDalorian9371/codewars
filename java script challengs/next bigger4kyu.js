@@ -1,6 +1,6 @@
 function nextBigger(n){
 	//your code here
-
+	// maybe go for just changing a digit if it is bigger than the left one
 	let newArr = n.toString().split('').map((x) => Number(x));
 	let posi = [];
 	let tot = newArr.reduce((acc, x, i) => acc * (i + 1), 1);
