@@ -15,5 +15,5 @@ String.prototype.toJadenCase = function(){
 
 	return res.join(' ');
 };
-let mosi = 'man mitonam vali mitarsam';
+let mosi = 'man mitonam';
 mosi.toJadenCase();
